@@ -2,7 +2,7 @@
 
 style.css
 ---------
-Par Jérôme François
+By Jérôme François
 
 */
 
@@ -11,7 +11,7 @@ body
 	max-width: 800px;
 	margin: auto;
 	font-family: "Open Sans", Arial, sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
@@ -55,7 +55,7 @@ body
 	background: #009;
 	color: White;
 }
- 
+
 #accueil #nav-accueil a:hover, #equipe #nav-equipe a:hover, #horaires #nav-horaires a:hover, #adresse #nav-adresse a:hover,
 #visite #nav-visite a:hover, #liens #nav-liens a:hover
 {
