@@ -49,20 +49,20 @@ body
 	transition: all 0.4s ease 0s;
 }
 
-#accueil #nav-accueil a, #horaires #nav-horaires a, #adresse #nav-adresse a, #visite #nav-visite a, 
-#liens #nav-liens a 
+#accueil #nav-accueil a, #equipe #nav-equipe a, #horaires #nav-horaires a, #adresse #nav-adresse a, #visite #nav-visite a,
+#liens #nav-liens a
 {
 	background: #009;
 	color: White;
 }
  
-#accueil #nav-accueil a:hover, #horaires #nav-horaires a:hover, #adresse #nav-adresse a:hover, 
-#visite #nav-visite a:hover, #liens #nav-liens a:hover 
+#accueil #nav-accueil a:hover, #equipe #nav-equipe a:hover, #horaires #nav-horaires a:hover, #adresse #nav-adresse a:hover,
+#visite #nav-visite a:hover, #liens #nav-liens a:hover
 {
 	background: #009;
 	color: White;
 }
- 
+
 #nav a:hover
 {
 	background: #009;
