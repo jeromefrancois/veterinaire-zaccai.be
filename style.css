@@ -99,6 +99,52 @@ section
 	margin-bottom: 0;
 }
 
+#equipe-semaine
+{
+	width: 80%;
+	background-color: #009;
+	border-collapse: collapse;
+  empty-cells: show;
+  border: 1px solid White;
+}
+
+#equipe-semaine th, td
+{
+	height: 30px;
+	border: 1px solid White;
+	text-align: center;
+	padding: 10px;
+}
+
+#jour
+{
+	text-align: left;
+}
+
+#equipe-julie:hover
+{
+	background-color: LightPink;
+	font-weight: bold;
+	color: Black;
+}
+
+#equipe-arnaud:hover
+{
+	background-color: PaleTurquoise;
+	font-weight: bold;
+	color: Black;
+}
+
+tfoot
+{
+	color: Red;
+}
+
+tfoot tr:hover
+{
+	color: Red;
+}
+
 .lienblanc
 {
 	text-decoration: none;
@@ -183,6 +229,8 @@ a:hover
 	text-decoration: none;
 	color: White;
 }
+
+
 
 /* The alert message box */
 .alert {
