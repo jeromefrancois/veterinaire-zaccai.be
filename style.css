@@ -121,7 +121,7 @@ table.center {
 	padding: 10px;
 }
 
-#jour
+#lundi, #mardi, #mercredi, #jeudi, #vendredi, #samedi, #dimanche
 {
 	text-align: left;
 }
@@ -133,7 +133,7 @@ table.center {
 	color: Black;
 }
 
-#equipe-arnaud:hover
+#equipe-amelie:hover
 {
 	background-color: PaleTurquoise;
 	font-weight: bold;
@@ -220,7 +220,7 @@ footer
 	text-align: center;
 	background-color: Black;
 	padding: 12px 0;
-	margin-top: 0px;
+	margin-top: 0;
 }
 
 a:link, a:active, a:visited
